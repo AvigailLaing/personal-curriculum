@@ -4,9 +4,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)
 
-A personalized Learning Management System (LMS) designed to gamify technical skill acquisition and "Life Protocols" (Security, Wealth, Health).
-
-**The Goal:** Adapt the academic structure of Canvas LMS for self-improvement!
+A personalized Learning Management System (LMS) designed to gamify self-improvement.
 
 <img width="1032" height="743" alt="image" src="https://github.com/user-attachments/assets/ee2f39e4-c9c1-4f6c-b0c3-ac0792db29d8" />
 
